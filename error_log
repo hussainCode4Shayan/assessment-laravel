@@ -1,0 +1,1 @@
+[21-Sep-2021 10:43:33 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/assessmentshayan/public_html/app/Providers/AppServiceProvider.php on line 3
